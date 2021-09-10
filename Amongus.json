@@ -203,59 +203,31 @@
   [
     {
       "id":1,
-      "name_map":"Bedrock Auto Chicken",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
+      "name_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among1.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map1.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
     },
     {
       "id":2,
-      "name_map":"Among Us Map",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
-      "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
+      "name_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among2.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map2.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
     },
     {
       "id":3,
-      "name_map":"Among Us Craft",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
+      "name_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among3.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map3.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
     },
     {
       "id":4,
-      "name_map":"Cubical's Tower",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
-    },
-    {
-      "id":5,
-      "name_map":"Among Craft",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
-    },
-    {
-      "id":6,
-      "name_map":"Achievement World",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
-    },
-    {
-      "id":7,
-      "name_map":"HardCoreLine",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
-    },
-    {
-      "id":8,
-      "name_map":"Hello Neighbor",
-      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
-      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
-	    "des_map":"https://creativemods.github.io/freeday/map.html"
+      "name_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among4.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map4.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
     }
   ]
 }

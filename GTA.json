@@ -1,0 +1,264 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"a6974b1759b1dbd8",
+      "backup_ads_intertitial":"3d536ffe0b879c67",
+      "interval_intertitial": 7,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":0,
+      "title":"Creative Mods",
+      "image":"file:///android_asset/cmods.png",
+      "link":"https://play.google.com/store/apps/developer?id=Creative+Mods"
+    }
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "name_skin":"Alien Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/alien-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/CnMqFudz1lp8sWSQhvSf6EL8FiEdZqJgKS2Cg4zayZOpGz9lmKTtCO2RcuDnk44VsuA1FvthnQF2SlfLM7t0AMM"
+  },
+  {
+    "id":2,
+    "name_skin":"Swat Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/swat-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/eOZRTizyaQn1nhS5JO_7OxhqyEEEw6Crp1riZKPHHnPCmg9wLc4KDOBnLXt5IwLnjtd281RkTfRY45Kyw8ncoBQ"
+  },
+  {
+    "id":3,
+    "name_skin":"Cj Gta Sa",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/cj-gta-sa.png",
+    "view_skin":"https://lh3.googleusercontent.com/Fw7ejvQFKPaeqEFPMEWIRMbm4TpAjS_JAvu1Gq426DtNubCi4NGIGotw0inbN6iUfwc9q4vm5TyFgTazYAiyzw"
+  },
+
+  {
+    "id":4,
+    "name_skin":"Chop Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/chop-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/I91P7hq6QO_EEQgxKiXr7n9Gf5iQY4B2yn0lm1z6QHS7B4l2tXilY1SEwqWc8AVIFOr8ZTsQtVcqiqnjqkzXkA"
+  },
+  {
+    "id":5,
+    "name_skin":"Trevor Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/trevor-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/WMavdwTYhgGOp3NmTtsm_EqI_rbhKRslgESmdowkAL0ndWfMYySD289O2wcMnI6J0LhdNIL60TVbM9dMVDROn0o"
+  },
+  {
+    "id":6,
+    "name_skin":"GTA",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/a00wagGodiXUlIH1qlHLQzdlad6Sp3ezW8cpKeHA1Q83d1zZ54VPab6piUdyEmc64nJPoUJ1VtzOF9ohawerlA"
+  },
+  {
+    "id":7,
+    "name_skin":"Claude Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/claude-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/cwDRflykWW3_BguThkU_sLCCEJKreUgcaieJ0CgiNQliw4tneWIBeh5DO_wckV5OZu21MKUTUvO-CpcYXNC7U6M"
+  },
+  {
+    "id":8,
+    "name_skin":"Ricardo Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/ricardo-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/joyPW0FiHE8-rnabgZE3zhm4NT7Nx7avQkqvb9UmKL4_Lbo7z4_I8N4Lmz5OuZDtOG_C5ZynvqsuaMLYXh5m7g"
+  },
+  {
+    "id":9,
+    "name_skin":"Toomy Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/toomy-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/_t-vLSNSFEUia6mgcOuFC6iyRagTbU0tKhnkRGENS2d-gmTk9V9JoiOKTdWoIUdsDvIYmiToDKQZrsUGTDTpuQ"
+  },
+
+  {
+    "id":10,
+    "name_skin":"GTA 1",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/gta-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/F93DJYV_8SCduSjUHgIQ4v9gXop6NgvAL6dqsfclzPI3IPKof9jZdxTKFSYhNNrClyssiaeWtYqvFQDVoiB4Iw"
+  },
+  {
+    "id":11,
+    "name_skin":"Michael Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/michael-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZqzYLWHw5-FP1w8e5LewubVZEE8nPgseoY8FP-jC2XZ6p7w41H0poniTsYJ9O7iIKqV3Mcz3Mh3AAObJ8tbVkA"
+  },
+  {
+    "id":12,
+    "name_skin":"San Andreas Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/san-andreas-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/vJi0zbmV86nD1-w7wCPLGE5OKmSKzkJwyKhiTdDmO9e89hXoqBtsMsDN5DpnAsGlHPUEBvX0WCYa40j_z87nPA"
+  },
+  {
+    "id":13,
+    "name_skin":"Balla Gta San",
+    "skin_url":"https://ia601503.us.archive.org/13/items/san-andreas-gta/gta/balla-gta-sa.png",
+    "view_skin":"https://lh3.googleusercontent.com/W9OWQTJnLgOocmYK30AGFxTwlzywEPrzq0HX7ukc64t8uCmPodWdoEsaVoSxU4VALA_pP7Ru4_2i_KTM0PeY2w"
+  },
+  {
+    "id":14,
+    "name_skin":"Toni Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/toni-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/GLcXwcL5oKxP24lkga51ow3W_W4lI1zPffX98b4DqJcCdYxGZCbMktKJ5v9oHFojeu1sFHZH7k6vN2R_QgbNfw"
+  },
+  {
+    "id":15,
+    "name_skin":"Sweet Gta San",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/sweet-gta-a.png",
+    "view_skin":"https://lh3.googleusercontent.com/BP-IxTHw7E1D55QnIAkdQJLpuDp2V12oVhQ_SvVFdqHd0D-XmCXILPbaTr9bnXlk1p8iFoSMf9QY4y7OfjUnsA"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://creativemods.github.io/boboi/addon/laserguns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/actualguns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":3,
+      "name_map":"Among Us Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":4,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":5,
+      "name_map":"Among Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":6,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":7,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":8,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
+    }
+  ]
+}
+

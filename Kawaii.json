@@ -9,7 +9,7 @@
       "native_for_admob":"ca-app-pub-1625708717292750/5666121695",
       "backup_ads_banner":"0d05696a94cf1bb7",
       "backup_ads_intertitial":"1844956c60adb78e",
-      "interval_intertitial": 7,
+      "interval_intertitial": 4,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
